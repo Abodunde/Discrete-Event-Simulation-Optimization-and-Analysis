@@ -1,0 +1,3105 @@
+\\arran.sms.ed.ac.uk\home\s2134236\Win7\Desktop\Arena Assessment\Assessment Final.doe
+4/27/2021 12:17:39 PM
+Objective:  Objective 2: [Coffee Orders] * 2 + [Total Tea Orders] + [Soft Drink Orders] * 1.5 + [Total Cake orders] * 2.65 + [Other Orders Records] * 1.5 + [Fruit Counter]
+  
+Simulation: 1   ****NEW BEST SOLUTION****
+4/27/2021 12:17:49 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  27.4
+Coffee Orders:  414.2
+Fruit Counter:  208.4
+Other Orders Records:  233
+Serviced Customers:  370.6
+Soft Drink Orders:  162.6
+Total Cake orders:  293.8
+Total Tea Orders:  240.4
+  
+Objective 2:  2649.17(Best = 2649.17)
+  
+  
+Simulation: 2   ****NEW BEST SOLUTION****
+4/27/2021 12:17:56 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  8.8
+Coffee Orders:  446.6
+Fruit Counter:  220.8
+Other Orders Records:  246.6
+Serviced Customers:  381.4
+Soft Drink Orders:  171.6
+Total Cake orders:  336.2
+Total Tea Orders:  269.8
+  
+Objective 2:  2902.03(Best = 2902.03)
+  
+  
+Simulation: 3
+4/27/2021 12:18:04 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  421.4
+Fruit Counter:  210.4
+Other Orders Records:  238.6
+Serviced Customers:  367.2
+Soft Drink Orders:  166.6
+Total Cake orders:  305.4
+Total Tea Orders:  244
+  
+Objective 2:  2714.31(Best = 2902.03)
+  
+  
+Simulation: 4
+4/27/2021 12:18:11 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  98.4
+Coffee Orders:  335.4
+Fruit Counter:  170
+Other Orders Records:  176.6
+Serviced Customers:  292.4
+Soft Drink Orders:  135
+Total Cake orders:  252.6
+Total Tea Orders:  191.8
+  
+Objective 2:  2169.39(Best = 2902.03)
+  
+  
+Simulation: 5   ****NEW BEST SOLUTION****
+4/27/2021 12:18:18 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  5.6
+Coffee Orders:  449.6
+Fruit Counter:  229.6
+Other Orders Records:  245.8
+Serviced Customers:  391.4
+Soft Drink Orders:  185.8
+Total Cake orders:  336.8
+Total Tea Orders:  261.8
+  
+Objective 2:  2930.52(Best = 2930.52)
+  
+  
+Simulation: 6
+4/27/2021 12:18:25 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  93.4
+Coffee Orders:  339
+Fruit Counter:  167.2
+Other Orders Records:  183.6
+Serviced Customers:  298.2
+Soft Drink Orders:  129.4
+Total Cake orders:  247.2
+Total Tea Orders:  191.4
+  
+Objective 2:  2161.18(Best = 2930.52)
+  
+  
+Simulation: 7
+4/27/2021 12:18:33 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  10.8
+Coffee Orders:  441.2
+Fruit Counter:  222.2
+Other Orders Records:  243.2
+Serviced Customers:  314.6
+Soft Drink Orders:  172
+Total Cake orders:  334.2
+Total Tea Orders:  274.2
+  
+Objective 2:  2887.23(Best = 2930.52)
+  
+  
+Simulation: 8
+4/27/2021 12:18:40 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  104.6
+Coffee Orders:  342.6
+Fruit Counter:  169.6
+Other Orders Records:  193.8
+Serviced Customers:  301.2
+Soft Drink Orders:  134.2
+Total Cake orders:  243
+Total Tea Orders:  194.4
+  
+Objective 2:  2185.15(Best = 2930.52)
+  
+  
+Simulation: 9
+4/27/2021 12:18:47 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  3.4
+Coffee Orders:  444.8
+Fruit Counter:  227.4
+Other Orders Records:  249
+Serviced Customers:  407.4
+Soft Drink Orders:  178.4
+Total Cake orders:  331.8
+Total Tea Orders:  269.2
+  
+Objective 2:  2906.57(Best = 2930.52)
+  
+  
+Simulation: 10
+4/27/2021 12:18:54 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  4
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  103.6
+Coffee Orders:  334.4
+Fruit Counter:  163.2
+Other Orders Records:  183.4
+Serviced Customers:  272.2
+Soft Drink Orders:  135.6
+Total Cake orders:  260.4
+Total Tea Orders:  205.8
+  
+Objective 2:  2206.36(Best = 2930.52)
+  
+  
+Simulation: 11
+4/27/2021 12:19:01 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  27.8
+Coffee Orders:  404.4
+Fruit Counter:  206
+Other Orders Records:  231.4
+Serviced Customers:  373.8
+Soft Drink Orders:  162
+Total Cake orders:  302.2
+Total Tea Orders:  248
+  
+Objective 2:  2653.73(Best = 2930.52)
+  
+  
+Simulation: 12
+4/27/2021 12:19:09 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  9
+Coffee Orders:  427.6
+Fruit Counter:  213.6
+Other Orders Records:  239.8
+Serviced Customers:  352.4
+Soft Drink Orders:  172.8
+Total Cake orders:  329
+Total Tea Orders:  257.4
+  
+Objective 2:  2816.95(Best = 2930.52)
+  
+  
+Simulation: 13
+4/27/2021 12:19:15 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  3
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  8.6
+Coffee Orders:  430.4
+Fruit Counter:  213.6
+Other Orders Records:  237.2
+Serviced Customers:  309.6
+Soft Drink Orders:  160
+Total Cake orders:  326.4
+Total Tea Orders:  271.2
+  
+Objective 2:  2806.36(Best = 2930.52)
+  
+  
+Simulation: 14
+4/27/2021 12:19:22 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  8
+Coffee Orders:  441.8
+Fruit Counter:  214.2
+Other Orders Records:  249.6
+Serviced Customers:  399.2
+Soft Drink Orders:  165.4
+Total Cake orders:  319.2
+Total Tea Orders:  261.8
+  
+Objective 2:  2827.98(Best = 2930.52)
+  
+  
+Simulation: 15
+4/27/2021 12:19:29 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  5
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  8.4
+Coffee Orders:  427.6
+Fruit Counter:  209.6
+Other Orders Records:  236.4
+Serviced Customers:  358.6
+Soft Drink Orders:  173.8
+Total Cake orders:  333
+Total Tea Orders:  257
+  
+Objective 2:  2819.55(Best = 2930.52)
+  
+  
+Simulation: 16
+4/27/2021 12:19:36 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  5
+Coffee Orders:  435.8
+Fruit Counter:  215.6
+Other Orders Records:  245.8
+Serviced Customers:  403
+Soft Drink Orders:  176.2
+Total Cake orders:  342.4
+Total Tea Orders:  267.6
+  
+Objective 2:  2895.16(Best = 2930.52)
+  
+  
+Simulation: 17   ****NEW BEST SOLUTION****
+4/27/2021 12:19:43 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  5.4
+Coffee Orders:  451
+Fruit Counter:  226.4
+Other Orders Records:  253.6
+Serviced Customers:  399.6
+Soft Drink Orders:  184.2
+Total Cake orders:  338.6
+Total Tea Orders:  268.6
+  
+Objective 2:  2950.99(Best = 2950.99)
+  
+  
+Simulation: 18   ****NEW BEST SOLUTION****
+4/27/2021 12:19:50 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  3.4
+Coffee Orders:  456.8
+Fruit Counter:  225
+Other Orders Records:  256.8
+Serviced Customers:  404.2
+Soft Drink Orders:  182.4
+Total Cake orders:  340.6
+Total Tea Orders:  268.4
+  
+Objective 2:  2968.39(Best = 2968.39)
+  
+  
+Simulation: 19
+4/27/2021 12:19:57 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  5
+Coffee Orders:  430.2
+Fruit Counter:  213.8
+Other Orders Records:  245.2
+Serviced Customers:  391.2
+Soft Drink Orders:  182.6
+Total Cake orders:  332.4
+Total Tea Orders:  263.4
+  
+Objective 2:  2860.16(Best = 2968.39)
+  
+  
+Simulation: 20
+4/27/2021 12:20:04 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  3.8
+Coffee Orders:  445
+Fruit Counter:  231.2
+Other Orders Records:  249.8
+Serviced Customers:  409.6
+Soft Drink Orders:  173.4
+Total Cake orders:  314
+Total Tea Orders:  259
+  
+Objective 2:  2847.1(Best = 2968.39)
+  
+  
+Simulation: 21
+4/27/2021 12:20:11 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  7
+Coffee Orders:  449.6
+Fruit Counter:  217
+Other Orders Records:  253.4
+Serviced Customers:  367
+Soft Drink Orders:  184.6
+Total Cake orders:  340
+Total Tea Orders:  264.8
+  
+Objective 2:  2939(Best = 2968.39)
+  
+  
+Simulation: 22
+4/27/2021 12:20:18 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  7.8
+Coffee Orders:  446.2
+Fruit Counter:  213.6
+Other Orders Records:  241.8
+Serviced Customers:  385
+Soft Drink Orders:  166.6
+Total Cake orders:  329
+Total Tea Orders:  260.8
+  
+Objective 2:  2851.25(Best = 2968.39)
+  
+  
+Simulation: 23
+4/27/2021 12:20:25 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  3
+Coffee Orders:  448.2
+Fruit Counter:  225.2
+Other Orders Records:  239.4
+Serviced Customers:  339.6
+Soft Drink Orders:  158.6
+Total Cake orders:  324.6
+Total Tea Orders:  266.6
+  
+Objective 2:  2845.39(Best = 2968.39)
+  
+  
+Simulation: 24
+4/27/2021 12:20:31 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  450.4
+Fruit Counter:  220.8
+Other Orders Records:  256.2
+Serviced Customers:  329.4
+Soft Drink Orders:  175
+Total Cake orders:  331.2
+Total Tea Orders:  262.6
+  
+Objective 2:  2908.68(Best = 2968.39)
+  
+  
+Simulation: 25
+4/27/2021 12:20:38 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  425.4
+Fruit Counter:  210.2
+Other Orders Records:  241.4
+Serviced Customers:  376
+Soft Drink Orders:  170
+Total Cake orders:  310.2
+Total Tea Orders:  246.2
+  
+Objective 2:  2746.33(Best = 2968.39)
+  
+  
+Simulation: 26
+4/27/2021 12:20:45 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  5
+Coffee Orders:  446.6
+Fruit Counter:  223.8
+Other Orders Records:  253
+Serviced Customers:  405
+Soft Drink Orders:  183.8
+Total Cake orders:  343.6
+Total Tea Orders:  272.6
+  
+Objective 2:  2955.34(Best = 2968.39)
+  
+  
+Simulation: 27
+4/27/2021 12:20:52 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  7
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  3.4
+Coffee Orders:  442.4
+Fruit Counter:  224.4
+Other Orders Records:  244
+Serviced Customers:  398
+Soft Drink Orders:  182.8
+Total Cake orders:  337.6
+Total Tea Orders:  265.6
+  
+Objective 2:  2909.64(Best = 2968.39)
+  
+  
+Simulation: 28
+4/27/2021 12:20:59 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  3.6
+Coffee Orders:  431.8
+Fruit Counter:  215.2
+Other Orders Records:  238.6
+Serviced Customers:  359.4
+Soft Drink Orders:  169.6
+Total Cake orders:  318.2
+Total Tea Orders:  249.2
+  
+Objective 2:  2783.53(Best = 2968.39)
+  
+  
+Simulation: 29
+4/27/2021 12:21:06 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.4
+Coffee Orders:  426.6
+Fruit Counter:  213.8
+Other Orders Records:  243.6
+Serviced Customers:  352.8
+Soft Drink Orders:  172.2
+Total Cake orders:  322.6
+Total Tea Orders:  259.6
+  
+Objective 2:  2805.19(Best = 2968.39)
+  
+  
+Simulation: 30   ****NEW BEST SOLUTION****
+4/27/2021 12:21:13 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  6.2
+Coffee Orders:  459.8
+Fruit Counter:  228.8
+Other Orders Records:  254.6
+Serviced Customers:  405.4
+Soft Drink Orders:  180.6
+Total Cake orders:  340.8
+Total Tea Orders:  274.4
+  
+Objective 2:  2978.72(Best = 2978.72)
+  
+  
+Simulation: 31
+4/27/2021 12:21:19 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  4.4
+Coffee Orders:  445
+Fruit Counter:  218.8
+Other Orders Records:  240.6
+Serviced Customers:  370.6
+Soft Drink Orders:  167.4
+Total Cake orders:  324.2
+Total Tea Orders:  255.6
+  
+Objective 2:  2835.53(Best = 2978.72)
+  
+  
+Simulation: 32
+4/27/2021 12:21:26 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  6
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  4.4
+Coffee Orders:  456.8
+Fruit Counter:  227
+Other Orders Records:  244.6
+Serviced Customers:  364
+Soft Drink Orders:  172.6
+Total Cake orders:  336.2
+Total Tea Orders:  260.2
+  
+Objective 2:  2917.53(Best = 2978.72)
+  
+  
+Simulation: 33
+4/27/2021 12:21:33 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  7.6
+Coffee Orders:  430.6
+Fruit Counter:  207.4
+Other Orders Records:  246.6
+Serviced Customers:  317.8
+Soft Drink Orders:  170.2
+Total Cake orders:  327.4
+Total Tea Orders:  261.4
+  
+Objective 2:  2822.81(Best = 2978.72)
+  
+  
+Simulation: 34
+4/27/2021 12:21:40 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  94.6
+Coffee Orders:  334.6
+Fruit Counter:  167.4
+Other Orders Records:  195.2
+Serviced Customers:  306.6
+Soft Drink Orders:  131.6
+Total Cake orders:  242.6
+Total Tea Orders:  206
+  
+Objective 2:  2175.69(Best = 2978.72)
+  
+  
+Simulation: 35
+4/27/2021 12:21:47 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  31.4
+Coffee Orders:  421.4
+Fruit Counter:  194.2
+Other Orders Records:  241.4
+Serviced Customers:  351.4
+Soft Drink Orders:  164.6
+Total Cake orders:  314.2
+Total Tea Orders:  243.4
+  
+Objective 2:  2722.03(Best = 2978.72)
+  
+  
+Simulation: 36
+4/27/2021 12:21:54 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  81.6
+Coffee Orders:  337.8
+Fruit Counter:  165
+Other Orders Records:  193.2
+Serviced Customers:  309.6
+Soft Drink Orders:  132
+Total Cake orders:  244.4
+Total Tea Orders:  195.4
+  
+Objective 2:  2171.46(Best = 2978.72)
+  
+  
+Simulation: 37
+4/27/2021 12:22:02 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  6.2
+Coffee Orders:  439
+Fruit Counter:  224.6
+Other Orders Records:  253.8
+Serviced Customers:  311.4
+Soft Drink Orders:  174.4
+Total Cake orders:  334.6
+Total Tea Orders:  275.4
+  
+Objective 2:  2906.99(Best = 2978.72)
+  
+  
+Simulation: 38
+4/27/2021 12:22:09 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  3
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  31.2
+Coffee Orders:  409.2
+Fruit Counter:  203.4
+Other Orders Records:  230
+Serviced Customers:  295.4
+Soft Drink Orders:  172.6
+Total Cake orders:  311.2
+Total Tea Orders:  243
+  
+Objective 2:  2693.38(Best = 2978.72)
+  
+  
+Simulation: 39
+4/27/2021 12:22:16 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  6
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  5.6
+Coffee Orders:  454.2
+Fruit Counter:  221
+Other Orders Records:  246
+Serviced Customers:  400
+Soft Drink Orders:  175.2
+Total Cake orders:  341.2
+Total Tea Orders:  266.2
+  
+Objective 2:  2931.58(Best = 2978.72)
+  
+  
+Simulation: 40
+4/27/2021 12:22:24 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  9
+Coffee Orders:  459.2
+Fruit Counter:  220.8
+Other Orders Records:  250
+Serviced Customers:  409.2
+Soft Drink Orders:  168
+Total Cake orders:  339.4
+Total Tea Orders:  268.6
+  
+Objective 2:  2934.21(Best = 2978.72)
+  
+  
+Simulation: 41
+4/27/2021 12:22:31 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  30.8
+Coffee Orders:  412
+Fruit Counter:  200.4
+Other Orders Records:  231.8
+Serviced Customers:  358.2
+Soft Drink Orders:  163.4
+Total Cake orders:  315.4
+Total Tea Orders:  250.2
+  
+Objective 2:  2703.21(Best = 2978.72)
+  
+  
+Simulation: 42
+4/27/2021 12:22:38 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  8.4
+Coffee Orders:  426.8
+Fruit Counter:  218
+Other Orders Records:  238.4
+Serviced Customers:  362.4
+Soft Drink Orders:  174.2
+Total Cake orders:  328.2
+Total Tea Orders:  264.8
+  
+Objective 2:  2825.03(Best = 2978.72)
+  
+  
+Simulation: 43
+4/27/2021 12:22:45 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  9.6
+Coffee Orders:  451.4
+Fruit Counter:  222.8
+Other Orders Records:  251.8
+Serviced Customers:  378.8
+Soft Drink Orders:  183.8
+Total Cake orders:  346.4
+Total Tea Orders:  272.8
+  
+Objective 2:  2969.76(Best = 2978.72)
+  
+  
+Simulation: 44
+4/27/2021 12:22:52 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  109.6
+Coffee Orders:  334.6
+Fruit Counter:  169.6
+Other Orders Records:  184.2
+Serviced Customers:  234.8
+Soft Drink Orders:  139.6
+Total Cake orders:  249.6
+Total Tea Orders:  199
+  
+Objective 2:  2184.94(Best = 2978.72)
+  
+  
+Simulation: 45
+4/27/2021 12:23:00 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  5.2
+Coffee Orders:  442.2
+Fruit Counter:  223.6
+Other Orders Records:  241.4
+Serviced Customers:  386.6
+Soft Drink Orders:  174.4
+Total Cake orders:  340.2
+Total Tea Orders:  266.8
+  
+Objective 2:  2900.03(Best = 2978.72)
+  
+  
+Simulation: 46
+4/27/2021 12:23:07 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  5
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  6.6
+Coffee Orders:  452
+Fruit Counter:  217.4
+Other Orders Records:  248
+Serviced Customers:  356.2
+Soft Drink Orders:  172.8
+Total Cake orders:  335.6
+Total Tea Orders:  265.2
+  
+Objective 2:  2907.14(Best = 2978.72)
+  
+  
+Simulation: 47
+4/27/2021 12:23:14 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  5
+Coffee Orders:  411.8
+Fruit Counter:  204.6
+Other Orders Records:  234.2
+Serviced Customers:  371.4
+Soft Drink Orders:  165.6
+Total Cake orders:  297.6
+Total Tea Orders:  239.4
+  
+Objective 2:  2655.94(Best = 2978.72)
+  
+  
+Simulation: 48
+4/27/2021 12:23:21 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  6
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  4.4
+Coffee Orders:  456.8
+Fruit Counter:  227
+Other Orders Records:  244.6
+Serviced Customers:  364
+Soft Drink Orders:  172.6
+Total Cake orders:  336.2
+Total Tea Orders:  260.2
+  
+Objective 2:  2917.53(Best = 2978.72)
+  
+  
+Simulation: 49
+4/27/2021 12:23:28 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  4
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  3
+Coffee Orders:  453.2
+Fruit Counter:  227.8
+Other Orders Records:  243
+Serviced Customers:  342.4
+Soft Drink Orders:  160.4
+Total Cake orders:  326.6
+Total Tea Orders:  268.2
+  
+Objective 2:  2872.99(Best = 2978.72)
+  
+  
+Simulation: 50
+4/27/2021 12:23:35 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  3.4
+Coffee Orders:  447.6
+Fruit Counter:  218.4
+Other Orders Records:  247
+Serviced Customers:  402.4
+Soft Drink Orders:  169.4
+Total Cake orders:  325.2
+Total Tea Orders:  261.2
+  
+Objective 2:  2861.18(Best = 2978.72)
+  
+  
+Simulation: 51
+4/27/2021 12:23:42 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  6.4
+Coffee Orders:  447.6
+Fruit Counter:  224
+Other Orders Records:  245.8
+Serviced Customers:  387
+Soft Drink Orders:  170.6
+Total Cake orders:  325.2
+Total Tea Orders:  256
+  
+Objective 2:  2861.58(Best = 2978.72)
+  
+  
+Simulation: 52
+4/27/2021 12:23:50 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  5
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  3.2
+Coffee Orders:  446.2
+Fruit Counter:  205.2
+Other Orders Records:  250.6
+Serviced Customers:  379.2
+Soft Drink Orders:  175.6
+Total Cake orders:  341.4
+Total Tea Orders:  263.2
+  
+Objective 2:  2904.81(Best = 2978.72)
+  
+  
+Simulation: 53
+4/27/2021 12:23:57 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  7.6
+Coffee Orders:  440
+Fruit Counter:  220.2
+Other Orders Records:  245.4
+Serviced Customers:  373.8
+Soft Drink Orders:  171.6
+Total Cake orders:  325.4
+Total Tea Orders:  255.4
+  
+Objective 2:  2843.41(Best = 2978.72)
+  
+  
+Simulation: 54
+4/27/2021 12:24:04 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  3
+Coffee Orders:  450.4
+Fruit Counter:  222.6
+Other Orders Records:  251.2
+Serviced Customers:  401.6
+Soft Drink Orders:  175.4
+Total Cake orders:  330.4
+Total Tea Orders:  263
+  
+Objective 2:  2901.86(Best = 2978.72)
+  
+  
+Simulation: 55
+4/27/2021 12:24:11 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  8.4
+Coffee Orders:  444.6
+Fruit Counter:  218.4
+Other Orders Records:  255.6
+Serviced Customers:  403.6
+Soft Drink Orders:  179.4
+Total Cake orders:  334
+Total Tea Orders:  265
+  
+Objective 2:  2910.2(Best = 2978.72)
+  
+  
+Simulation: 56
+4/27/2021 12:24:18 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  3
+Coffee Orders:  440
+Fruit Counter:  219.8
+Other Orders Records:  242
+Serviced Customers:  366.6
+Soft Drink Orders:  179
+Total Cake orders:  328
+Total Tea Orders:  251
+  
+Objective 2:  2851.5(Best = 2978.72)
+  
+  
+Simulation: 57
+4/27/2021 12:24:25 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  5
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  30.4
+Coffee Orders:  414.8
+Fruit Counter:  204.4
+Other Orders Records:  218.2
+Serviced Customers:  368.4
+Soft Drink Orders:  165.2
+Total Cake orders:  305.4
+Total Tea Orders:  230
+  
+Objective 2:  2648.41(Best = 2978.72)
+  
+  
+Simulation: 58
+4/27/2021 12:24:32 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  109.6
+Coffee Orders:  334.6
+Fruit Counter:  169.6
+Other Orders Records:  184.2
+Serviced Customers:  234.8
+Soft Drink Orders:  139.6
+Total Cake orders:  249.6
+Total Tea Orders:  199
+  
+Objective 2:  2184.94(Best = 2978.72)
+  
+  
+Simulation: 59
+4/27/2021 12:24:39 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  10.6
+Coffee Orders:  452.8
+Fruit Counter:  225.6
+Other Orders Records:  251.8
+Serviced Customers:  356
+Soft Drink Orders:  178.6
+Total Cake orders:  340.2
+Total Tea Orders:  273.2
+  
+Objective 2:  2951.53(Best = 2978.72)
+  
+  
+Simulation: 60
+4/27/2021 12:24:46 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  8
+Coffee Orders:  429
+Fruit Counter:  212.6
+Other Orders Records:  233.4
+Serviced Customers:  396.6
+Soft Drink Orders:  175.2
+Total Cake orders:  334.8
+Total Tea Orders:  257.4
+  
+Objective 2:  2828.12(Best = 2978.72)
+  
+  
+Simulation: 61
+4/27/2021 12:24:53 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  31.8
+Coffee Orders:  406.6
+Fruit Counter:  211.2
+Other Orders Records:  232.8
+Serviced Customers:  368.8
+Soft Drink Orders:  174.4
+Total Cake orders:  300.2
+Total Tea Orders:  240.6
+  
+Objective 2:  2671.33(Best = 2978.72)
+  
+  
+Simulation: 62
+4/27/2021 12:25:00 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  1.8
+Coffee Orders:  455.8
+Fruit Counter:  226.2
+Other Orders Records:  260.8
+Serviced Customers:  347.6
+Soft Drink Orders:  189.8
+Total Cake orders:  334
+Total Tea Orders:  265
+  
+Objective 2:  2963.8(Best = 2978.72)
+  
+  
+Simulation: 63
+4/27/2021 12:25:08 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  92.8
+Coffee Orders:  332.2
+Fruit Counter:  178.4
+Other Orders Records:  188.2
+Serviced Customers:  248.6
+Soft Drink Orders:  140.6
+Total Cake orders:  250.6
+Total Tea Orders:  205.4
+  
+Objective 2:  2205.49(Best = 2978.72)
+  
+  
+Simulation: 64
+4/27/2021 12:25:15 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  7.8
+Coffee Orders:  455.8
+Fruit Counter:  222.2
+Other Orders Records:  246
+Serviced Customers:  383.6
+Soft Drink Orders:  175.2
+Total Cake orders:  344.6
+Total Tea Orders:  267
+  
+Objective 2:  2945.79(Best = 2978.72)
+  
+  
+Simulation: 65
+4/27/2021 12:25:22 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  5.6
+Coffee Orders:  429.6
+Fruit Counter:  203.4
+Other Orders Records:  245.4
+Serviced Customers:  395.2
+Soft Drink Orders:  168.2
+Total Cake orders:  319.8
+Total Tea Orders:  258.2
+  
+Objective 2:  2788.67(Best = 2978.72)
+  
+  
+Simulation: 66
+4/27/2021 12:25:28 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  4
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  1.6
+Coffee Orders:  436.4
+Fruit Counter:  226.8
+Other Orders Records:  232.4
+Serviced Customers:  342.2
+Soft Drink Orders:  170.4
+Total Cake orders:  336
+Total Tea Orders:  272.6
+  
+Objective 2:  2866.8(Best = 2978.72)
+  
+  
+Simulation: 67
+4/27/2021 12:25:35 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  5
+Coffee Orders:  451.6
+Fruit Counter:  226.6
+Other Orders Records:  255.2
+Serviced Customers:  401.2
+Soft Drink Orders:  183.2
+Total Cake orders:  343.4
+Total Tea Orders:  275.8
+  
+Objective 2:  2973.21(Best = 2978.72)
+  
+  
+Simulation: 68
+4/27/2021 12:25:43 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  1.8
+Coffee Orders:  451.4
+Fruit Counter:  226.2
+Other Orders Records:  252.2
+Serviced Customers:  342
+Soft Drink Orders:  192.6
+Total Cake orders:  340.2
+Total Tea Orders:  262
+  
+Objective 2:  2959.73(Best = 2978.72)
+  
+  
+Simulation: 69   ****NEW BEST SOLUTION****
+4/27/2021 12:25:50 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  464.4
+Fruit Counter:  235.8
+Other Orders Records:  266.2
+Serviced Customers:  406
+Soft Drink Orders:  187
+Total Cake orders:  348
+Total Tea Orders:  288.8
+  
+Objective 2:  3055.4(Best = 3055.4)
+  
+  
+Simulation: 70
+4/27/2021 12:25:57 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  4
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  1.8
+Coffee Orders:  451.4
+Fruit Counter:  226.2
+Other Orders Records:  252.2
+Serviced Customers:  342
+Soft Drink Orders:  192.6
+Total Cake orders:  340.2
+Total Tea Orders:  262
+  
+Objective 2:  2959.73(Best = 3055.4)
+  
+  
+Simulation: 71
+4/27/2021 12:26:04 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  5
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  5
+Coffee Orders:  453.6
+Fruit Counter:  219.8
+Other Orders Records:  254.4
+Serviced Customers:  370.8
+Soft Drink Orders:  180.4
+Total Cake orders:  334.6
+Total Tea Orders:  259.2
+  
+Objective 2:  2925.09(Best = 3055.4)
+  
+  
+Simulation: 72
+4/27/2021 12:26:11 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  5
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  3.4
+Coffee Orders:  445.6
+Fruit Counter:  217.4
+Other Orders Records:  248.6
+Serviced Customers:  371.2
+Soft Drink Orders:  169.4
+Total Cake orders:  325.8
+Total Tea Orders:  254.2
+  
+Objective 2:  2853.17(Best = 3055.4)
+  
+  
+Simulation: 73
+4/27/2021 12:26:18 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  9.6
+Coffee Orders:  448
+Fruit Counter:  221
+Other Orders Records:  238.4
+Serviced Customers:  334.4
+Soft Drink Orders:  166.2
+Total Cake orders:  317
+Total Tea Orders:  244.8
+  
+Objective 2:  2808.75(Best = 3055.4)
+  
+  
+Simulation: 74
+4/27/2021 12:26:25 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  3.8
+Coffee Orders:  427.2
+Fruit Counter:  218.8
+Other Orders Records:  248
+Serviced Customers:  374.2
+Soft Drink Orders:  177.2
+Total Cake orders:  326.8
+Total Tea Orders:  271.6
+  
+Objective 2:  2848.62(Best = 3055.4)
+  
+  
+Simulation: 75
+4/27/2021 12:26:32 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  4.4
+Coffee Orders:  447.6
+Fruit Counter:  224
+Other Orders Records:  251
+Serviced Customers:  396.6
+Soft Drink Orders:  179
+Total Cake orders:  338.6
+Total Tea Orders:  274
+  
+Objective 2:  2935.49(Best = 3055.4)
+  
+  
+Simulation: 76
+4/27/2021 12:26:40 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  5.4
+Coffee Orders:  434.4
+Fruit Counter:  211.6
+Other Orders Records:  244.2
+Serviced Customers:  381
+Soft Drink Orders:  166.8
+Total Cake orders:  321.2
+Total Tea Orders:  257.2
+  
+Objective 2:  2805.28(Best = 3055.4)
+  
+  
+Simulation: 77
+4/27/2021 12:26:47 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  6
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  2.2
+Coffee Orders:  456.4
+Fruit Counter:  232.6
+Other Orders Records:  250.6
+Serviced Customers:  374
+Soft Drink Orders:  177.4
+Total Cake orders:  325.4
+Total Tea Orders:  257.6
+  
+Objective 2:  2907.31(Best = 3055.4)
+  
+  
+Simulation: 78
+4/27/2021 12:26:54 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  5.4
+Coffee Orders:  448
+Fruit Counter:  220.4
+Other Orders Records:  244.2
+Serviced Customers:  386.6
+Soft Drink Orders:  163.4
+Total Cake orders:  315.2
+Total Tea Orders:  257
+  
+Objective 2:  2820.08(Best = 3055.4)
+  
+  
+Simulation: 79
+4/27/2021 12:27:01 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  106
+Coffee Orders:  335.8
+Fruit Counter:  162.4
+Other Orders Records:  182.6
+Serviced Customers:  270.6
+Soft Drink Orders:  134.6
+Total Cake orders:  261.4
+Total Tea Orders:  204
+  
+Objective 2:  2206.51(Best = 3055.4)
+  
+  
+Simulation: 80
+4/27/2021 12:27:08 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  9
+Coffee Orders:  427.6
+Fruit Counter:  213.6
+Other Orders Records:  239.8
+Serviced Customers:  352.4
+Soft Drink Orders:  172.8
+Total Cake orders:  329
+Total Tea Orders:  257.4
+  
+Objective 2:  2816.95(Best = 3055.4)
+  
+  
+Simulation: 81
+4/27/2021 12:27:15 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  83.4
+Coffee Orders:  325.6
+Fruit Counter:  163.4
+Other Orders Records:  182.8
+Serviced Customers:  305.8
+Soft Drink Orders:  130.4
+Total Cake orders:  255.4
+Total Tea Orders:  205
+  
+Objective 2:  2166.21(Best = 3055.4)
+  
+  
+Simulation: 82
+4/27/2021 12:27:22 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  6
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  25.2
+Coffee Orders:  401.6
+Fruit Counter:  202.8
+Other Orders Records:  227
+Serviced Customers:  357.4
+Soft Drink Orders:  165.8
+Total Cake orders:  316.2
+Total Tea Orders:  249.2
+  
+Objective 2:  2682.33(Best = 3055.4)
+  
+  
+Simulation: 83
+4/27/2021 12:27:29 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  5.4
+Coffee Orders:  440.4
+Fruit Counter:  230.2
+Other Orders Records:  240
+Serviced Customers:  395.6
+Soft Drink Orders:  170
+Total Cake orders:  322
+Total Tea Orders:  261.4
+  
+Objective 2:  2840.7(Best = 3055.4)
+  
+  
+Simulation: 84
+4/27/2021 12:27:36 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  3
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  15.6
+Coffee Orders:  436
+Fruit Counter:  212.2
+Other Orders Records:  239.2
+Serviced Customers:  306
+Soft Drink Orders:  171.2
+Total Cake orders:  322.8
+Total Tea Orders:  251.8
+  
+Objective 2:  2807.02(Best = 3055.4)
+  
+  
+Simulation: 85
+4/27/2021 12:27:43 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  5.2
+Coffee Orders:  472.2
+Fruit Counter:  236.2
+Other Orders Records:  261.6
+Serviced Customers:  376.6
+Soft Drink Orders:  190.4
+Total Cake orders:  342.2
+Total Tea Orders:  271.6
+  
+Objective 2:  3037.03(Best = 3055.4)
+  
+  
+Simulation: 86
+4/27/2021 12:27:50 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  11.4
+Coffee Orders:  455.4
+Fruit Counter:  218.6
+Other Orders Records:  261.6
+Serviced Customers:  403.2
+Soft Drink Orders:  181
+Total Cake orders:  343
+Total Tea Orders:  276
+  
+Objective 2:  2978.25(Best = 3055.4)
+  
+  
+Simulation: 87
+4/27/2021 12:27:57 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  8
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  8.8
+Coffee Orders:  438.4
+Fruit Counter:  220.2
+Other Orders Records:  238.8
+Serviced Customers:  398.4
+Soft Drink Orders:  160.8
+Total Cake orders:  332
+Total Tea Orders:  272.6
+  
+Objective 2:  2848.8(Best = 3055.4)
+  
+  
+Simulation: 88
+4/27/2021 12:28:04 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  10.8
+Coffee Orders:  441.2
+Fruit Counter:  222.2
+Other Orders Records:  243.2
+Serviced Customers:  314.6
+Soft Drink Orders:  172
+Total Cake orders:  334.2
+Total Tea Orders:  274.2
+  
+Objective 2:  2887.23(Best = 3055.4)
+  
+  
+Simulation: 89
+4/27/2021 12:28:11 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  7.4
+Coffee Orders:  443
+Fruit Counter:  222.4
+Other Orders Records:  255.2
+Serviced Customers:  400
+Soft Drink Orders:  186.2
+Total Cake orders:  339.4
+Total Tea Orders:  269.6
+  
+Objective 2:  2939.51(Best = 3055.4)
+  
+  
+Simulation: 90
+4/27/2021 12:28:18 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  5.2
+Coffee Orders:  457.4
+Fruit Counter:  224
+Other Orders Records:  256
+Serviced Customers:  349.4
+Soft Drink Orders:  182.4
+Total Cake orders:  337.6
+Total Tea Orders:  265.4
+  
+Objective 2:  2956.44(Best = 3055.4)
+  
+  
+Simulation: 91
+4/27/2021 12:28:25 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  3.8
+Coffee Orders:  453.8
+Fruit Counter:  227.8
+Other Orders Records:  255
+Serviced Customers:  409.4
+Soft Drink Orders:  182.8
+Total Cake orders:  348.6
+Total Tea Orders:  271.6
+  
+Objective 2:  2987.49(Best = 3055.4)
+  
+  
+Simulation: 92
+4/27/2021 12:28:32 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  6.6
+Coffee Orders:  461.4
+Fruit Counter:  226
+Other Orders Records:  243.8
+Serviced Customers:  309.6
+Soft Drink Orders:  168.4
+Total Cake orders:  344.6
+Total Tea Orders:  271.2
+  
+Objective 2:  2951.49(Best = 3055.4)
+  
+  
+Simulation: 93
+4/27/2021 12:28:41 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  5
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.6
+Coffee Orders:  452
+Fruit Counter:  217.4
+Other Orders Records:  248
+Serviced Customers:  356.2
+Soft Drink Orders:  172.8
+Total Cake orders:  335.6
+Total Tea Orders:  265.2
+  
+Objective 2:  2907.14(Best = 3055.4)
+  
+  
+Simulation: 94
+4/27/2021 12:28:49 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  4
+Coffee Orders:  434.8
+Fruit Counter:  217.6
+Other Orders Records:  238.4
+Serviced Customers:  387.6
+Soft Drink Orders:  167.4
+Total Cake orders:  324.8
+Total Tea Orders:  264.8
+  
+Objective 2:  2821.42(Best = 3055.4)
+  
+  
+Simulation: 95
+4/27/2021 12:28:57 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  7.2
+Coffee Orders:  444.6
+Fruit Counter:  227
+Other Orders Records:  247.6
+Serviced Customers:  388.2
+Soft Drink Orders:  181.2
+Total Cake orders:  338.8
+Total Tea Orders:  265
+  
+Objective 2:  2922.22(Best = 3055.4)
+  
+  
+Simulation: 96
+4/27/2021 12:29:04 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  450.4
+Fruit Counter:  220.8
+Other Orders Records:  256.2
+Serviced Customers:  329.4
+Soft Drink Orders:  175
+Total Cake orders:  331.2
+Total Tea Orders:  262.6
+  
+Objective 2:  2908.68(Best = 3055.4)
+  
+  
+Simulation: 97
+4/27/2021 12:29:10 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  5
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  8
+Coffee Orders:  450.4
+Fruit Counter:  228
+Other Orders Records:  248.6
+Serviced Customers:  409.6
+Soft Drink Orders:  176.2
+Total Cake orders:  334.4
+Total Tea Orders:  269.6
+  
+Objective 2:  2921.76(Best = 3055.4)
+  
+  
+Simulation: 98
+4/27/2021 12:29:17 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  10.2
+Coffee Orders:  451.4
+Fruit Counter:  225.8
+Other Orders Records:  259.2
+Serviced Customers:  378
+Soft Drink Orders:  182.4
+Total Cake orders:  334.6
+Total Tea Orders:  276.4
+  
+Objective 2:  2954.09(Best = 3055.4)
+  
+  
+Simulation: 99
+4/27/2021 12:29:24 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  15
+Coffee Orders:  446.6
+Fruit Counter:  216.6
+Other Orders Records:  254.8
+Serviced Customers:  400.6
+Soft Drink Orders:  173.2
+Total Cake orders:  329
+Total Tea Orders:  264.8
+  
+Objective 2:  2888.45(Best = 3055.4)
+  
+  
+Simulation: 100
+4/27/2021 12:29:32 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  5
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  431.6
+Fruit Counter:  211
+Other Orders Records:  246.4
+Serviced Customers:  357
+Soft Drink Orders:  181.4
+Total Cake orders:  339.6
+Total Tea Orders:  261.6
+  
+Objective 2:  2877.44(Best = 3055.4)
+  
+  
+Simulation: 101
+4/27/2021 12:29:39 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  7.2
+Coffee Orders:  424.2
+Fruit Counter:  212.4
+Other Orders Records:  242.4
+Serviced Customers:  360.2
+Soft Drink Orders:  171
+Total Cake orders:  325
+Total Tea Orders:  266.4
+  
+Objective 2:  2808.55(Best = 3055.4)
+  
+  
+Simulation: 102
+4/27/2021 12:29:45 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  3
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  92.8
+Coffee Orders:  332.2
+Fruit Counter:  178.4
+Other Orders Records:  188.2
+Serviced Customers:  248.6
+Soft Drink Orders:  140.6
+Total Cake orders:  250.6
+Total Tea Orders:  205.4
+  
+Objective 2:  2205.49(Best = 3055.4)
+  
+  
+Simulation: 103
+4/27/2021 12:29:53 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  87
+Coffee Orders:  343.4
+Fruit Counter:  167.2
+Other Orders Records:  187.4
+Serviced Customers:  297.2
+Soft Drink Orders:  132.4
+Total Cake orders:  247.6
+Total Tea Orders:  189.2
+  
+Objective 2:  2179.04(Best = 3055.4)
+  
+  
+Simulation: 104
+4/27/2021 12:29:59 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  3
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  6.6
+Coffee Orders:  442.6
+Fruit Counter:  224.6
+Other Orders Records:  242.4
+Serviced Customers:  315.8
+Soft Drink Orders:  173.2
+Total Cake orders:  335.4
+Total Tea Orders:  277.4
+  
+Objective 2:  2899.41(Best = 3055.4)
+  
+  
+Simulation: 105
+4/27/2021 12:30:07 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  3
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  15.6
+Coffee Orders:  436
+Fruit Counter:  212.2
+Other Orders Records:  239.2
+Serviced Customers:  306
+Soft Drink Orders:  171.2
+Total Cake orders:  322.8
+Total Tea Orders:  251.8
+  
+Objective 2:  2807.02(Best = 3055.4)
+  
+  
+Simulation: 106
+4/27/2021 12:30:14 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  6
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  10.8
+Coffee Orders:  453.8
+Fruit Counter:  221.4
+Other Orders Records:  247.8
+Serviced Customers:  384.4
+Soft Drink Orders:  170.4
+Total Cake orders:  322.2
+Total Tea Orders:  249
+  
+Objective 2:  2859.13(Best = 3055.4)
+  
+  
+Simulation: 107
+4/27/2021 12:30:21 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  27.2
+Coffee Orders:  404.4
+Fruit Counter:  198.8
+Other Orders Records:  224.6
+Serviced Customers:  343
+Soft Drink Orders:  159.6
+Total Cake orders:  306.2
+Total Tea Orders:  243.4
+  
+Objective 2:  2638.73(Best = 3055.4)
+  
+  
+Simulation: 108
+4/27/2021 12:30:28 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  5.8
+Coffee Orders:  456.6
+Fruit Counter:  219
+Other Orders Records:  256.8
+Serviced Customers:  394.8
+Soft Drink Orders:  174.4
+Total Cake orders:  333.4
+Total Tea Orders:  258.4
+  
+Objective 2:  2920.91(Best = 3055.4)
+  
+  
+Simulation: 109
+4/27/2021 12:30:34 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  8
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  89.2
+Coffee Orders:  334.2
+Fruit Counter:  170.4
+Other Orders Records:  186.2
+Serviced Customers:  305.2
+Soft Drink Orders:  134.8
+Total Cake orders:  251.6
+Total Tea Orders:  202.6
+  
+Objective 2:  2189.64(Best = 3055.4)
+  
+  
+Simulation: 110
+4/27/2021 12:30:41 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  44.6
+Coffee Orders:  418.8
+Fruit Counter:  203.6
+Other Orders Records:  234.6
+Serviced Customers:  346.4
+Soft Drink Orders:  165
+Total Cake orders:  309.8
+Total Tea Orders:  246.8
+  
+Objective 2:  2708.37(Best = 3055.4)
+  
+  
+Simulation: 111
+4/27/2021 12:30:49 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  4
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  1.8
+Coffee Orders:  451.4
+Fruit Counter:  226.2
+Other Orders Records:  252.2
+Serviced Customers:  342
+Soft Drink Orders:  192.6
+Total Cake orders:  340.2
+Total Tea Orders:  262
+  
+Objective 2:  2959.73(Best = 3055.4)
+  
+  
+Simulation: 112
+4/27/2021 12:30:56 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  6.8
+Coffee Orders:  435
+Fruit Counter:  218.4
+Other Orders Records:  240.2
+Serviced Customers:  393.4
+Soft Drink Orders:  173.6
+Total Cake orders:  332.2
+Total Tea Orders:  267.4
+  
+Objective 2:  2856.83(Best = 3055.4)
+  
+  
+Simulation: 113
+4/27/2021 12:31:03 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  5
+  
+Values of Output Variables
+Balked Counter:  1.8
+Coffee Orders:  451.4
+Fruit Counter:  226.2
+Other Orders Records:  252.2
+Serviced Customers:  342
+Soft Drink Orders:  192.6
+Total Cake orders:  340.2
+Total Tea Orders:  262
+  
+Objective 2:  2959.73(Best = 3055.4)
+  
+  
+Simulation: 114
+4/27/2021 12:31:10 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  4
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  1.8
+Coffee Orders:  455.8
+Fruit Counter:  226.2
+Other Orders Records:  260.8
+Serviced Customers:  347.6
+Soft Drink Orders:  189.8
+Total Cake orders:  334
+Total Tea Orders:  265
+  
+Objective 2:  2963.8(Best = 3055.4)
+  
+  
+Simulation: 115
+4/27/2021 12:31:17 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  6
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  9.6
+Coffee Orders:  433.2
+Fruit Counter:  211
+Other Orders Records:  239.8
+Serviced Customers:  368.2
+Soft Drink Orders:  172
+Total Cake orders:  325.2
+Total Tea Orders:  251.4
+  
+Objective 2:  2808.28(Best = 3055.4)
+  
+  
+Simulation: 116
+4/27/2021 12:31:24 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  9.4
+Coffee Orders:  468.2
+Fruit Counter:  228.4
+Other Orders Records:  252.4
+Serviced Customers:  371.4
+Soft Drink Orders:  177.8
+Total Cake orders:  342.2
+Total Tea Orders:  264.8
+  
+Objective 2:  2981.73(Best = 3055.4)
+  
+  
+Simulation: 117
+4/27/2021 12:31:31 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  2.6
+Coffee Orders:  439
+Fruit Counter:  228.6
+Other Orders Records:  247.4
+Serviced Customers:  379.4
+Soft Drink Orders:  177.6
+Total Cake orders:  323
+Total Tea Orders:  265.2
+  
+Objective 2:  2865.25(Best = 3055.4)
+  
+  
+Simulation: 118
+4/27/2021 12:31:38 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  7
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  5.8
+Coffee Orders:  425.4
+Fruit Counter:  210.8
+Other Orders Records:  244.6
+Serviced Customers:  380.8
+Soft Drink Orders:  171.8
+Total Cake orders:  314
+Total Tea Orders:  249.8
+  
+Objective 2:  2768.1(Best = 3055.4)
+  
+  
+Simulation: 119
+4/27/2021 12:31:45 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  14
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  5
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  7.2
+Coffee Orders:  419
+Fruit Counter:  210.8
+Other Orders Records:  246.8
+Serviced Customers:  357.2
+Soft Drink Orders:  174
+Total Cake orders:  321.8
+Total Tea Orders:  264.4
+  
+Objective 2:  2797.17(Best = 3055.4)
+  
+  
+Simulation: 120
+4/27/2021 12:31:52 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  110.8
+Coffee Orders:  343
+Fruit Counter:  164.6
+Other Orders Records:  189.2
+Serviced Customers:  256.6
+Soft Drink Orders:  129.8
+Total Cake orders:  244.2
+Total Tea Orders:  188.4
+  
+Objective 2:  2164.63(Best = 3055.4)
+  
+  
+Simulation: 121
+4/27/2021 12:31:59 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  1
+  
+Values of Output Variables
+Balked Counter:  23.4
+Coffee Orders:  404.4
+Fruit Counter:  202
+Other Orders Records:  228.8
+Serviced Customers:  327.6
+Soft Drink Orders:  163.2
+Total Cake orders:  316.2
+Total Tea Orders:  255.2
+  
+Objective 2:  2691.93(Best = 3055.4)
+  
+  
+Simulation: 122
+4/27/2021 12:32:06 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  4
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  5.6
+Coffee Orders:  456.8
+Fruit Counter:  221.2
+Other Orders Records:  257.4
+Serviced Customers:  365.6
+Soft Drink Orders:  188.6
+Total Cake orders:  342
+Total Tea Orders:  263.6
+  
+Objective 2:  2973.7(Best = 3055.4)
+  
+  
+Simulation: 123
+4/27/2021 12:32:13 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  8
+TwoSeaterTable:  4
+  
+Values of Output Variables
+Balked Counter:  29.4
+Coffee Orders:  402.8
+Fruit Counter:  207.4
+Other Orders Records:  216.8
+Serviced Customers:  365.4
+Soft Drink Orders:  160
+Total Cake orders:  308.2
+Total Tea Orders:  240.2
+  
+Objective 2:  2635.13(Best = 3055.4)
+  
+  
+Simulation: 124
+4/27/2021 12:32:20 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  11
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  31.8
+Coffee Orders:  415.2
+Fruit Counter:  208.6
+Other Orders Records:  235.2
+Serviced Customers:  312.4
+Soft Drink Orders:  170.4
+Total Cake orders:  313.4
+Total Tea Orders:  247
+  
+Objective 2:  2724.91(Best = 3055.4)
+  
+  
+Simulation: 125
+4/27/2021 12:32:27 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  0
+Tray:  7
+TwoSeaterTable:  6
+  
+Values of Output Variables
+Balked Counter:  3.6
+Coffee Orders:  429.4
+Fruit Counter:  210.4
+Other Orders Records:  237.2
+Serviced Customers:  390.8
+Soft Drink Orders:  171.6
+Total Cake orders:  321.2
+Total Tea Orders:  249.4
+  
+Objective 2:  2782.98(Best = 3055.4)
+  
+  
+Simulation: 126
+4/27/2021 12:32:34 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  15
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  4
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  1.6
+Coffee Orders:  439.4
+Fruit Counter:  226.8
+Other Orders Records:  235.4
+Serviced Customers:  342.2
+Soft Drink Orders:  174.8
+Total Cake orders:  343.2
+Total Tea Orders:  276.2
+  
+Objective 2:  2906.58(Best = 3055.4)
+  
+  
+Simulation: 127
+4/27/2021 12:32:41 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  13
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  3
+TwoSeaterTable:  3
+  
+Values of Output Variables
+Balked Counter:  10.8
+Coffee Orders:  441.2
+Fruit Counter:  222.2
+Other Orders Records:  243.2
+Serviced Customers:  314.6
+Soft Drink Orders:  172
+Total Cake orders:  334.2
+Total Tea Orders:  274.2
+  
+Objective 2:  2887.23(Best = 3055.4)
+  
+  
+Simulation: 128
+4/27/2021 12:32:48 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  10
+FourSeaterTable:  1
+LongTableSeater:  10
+Tray:  6
+TwoSeaterTable:  7
+  
+Values of Output Variables
+Balked Counter:  101
+Coffee Orders:  345.8
+Fruit Counter:  163.6
+Other Orders Records:  184.8
+Serviced Customers:  278
+Soft Drink Orders:  122.2
+Total Cake orders:  248.6
+Total Tea Orders:  191.6
+  
+Objective 2:  2166.09(Best = 3055.4)
+  
+  
+Simulation: 129
+4/27/2021 12:32:55 PM
+Number of Replications: 5
+  
+Values of Decision Variables
+BaristaCap:  12
+FourSeaterTable:  1
+LongTableSeater:  20
+Tray:  7
+TwoSeaterTable:  2
+  
+Values of Output Variables
+Balked Counter:  9.4
+Coffee Orders:  434.6
+Fruit Counter:  215.4
+Other Orders Records:  236
+Serviced Customers:  383.6
+Soft Drink Orders:  171
+Total Cake orders:  330.2
+Total Tea Orders:  261.6
+  
+Objective 2:  2831.73(Best = 3055.4)
+  
+  
+ 
+Optimization Summary
+Optimization started at 4/27/2021 12:17:43 PM and ended at 4/27/2021 12:32:55 PM
+Best solution generated at simulation 69 of 129 total simulations.
+ 
