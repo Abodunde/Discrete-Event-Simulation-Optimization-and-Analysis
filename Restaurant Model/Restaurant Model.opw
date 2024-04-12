@@ -1,0 +1,71 @@
+[RESOURCES]
+Tray
+Barista
+TwoSeaterTable
+FourSeaterTable
+LongTableSeater
+[VARIABLES]
+Use Two Seater Table.VATime
+Willing to wait for Four Seater?.NumberOut True
+Willing to wait for Four Seater?.NumberOut False
+Customer Exit.NumberOut
+Place Order at Till.NumberOut
+Place Order at Till.NumberIn
+Use Four Seater Table.NumberOut
+Use Two Seater Table.NumberIn
+Use Four Seater Table.NumberIn
+SitIn or TakeOut?.NumberOut False
+BaristaCap
+Prepare Order.NumberIn
+Four Seater Table Cleaning.WaitTime
+Prepare Order.VATime
+Move To Table Area.VATime
+Use Long Table.VATime
+Prepare Order.NVATime
+Prepare Order.OtherTime
+Four Seater Table Cleaning.VATime
+Prepare Order.NumberOut
+Prepare Order.WaitTime
+TwoSeater Table Cleaning.WaitTime
+Use Four Seater Table.WaitTime
+Leaving Process.VATime
+Use Four Seater Table.VATime
+Batch Customers and Orders.NumberOut
+Use Long Table.NumberOut
+Use Long Table.NumberIn
+Queue Size is too Large I am leaving.NumberOut
+Place Order at Till.OtherTime
+SitIn or TakeOut?.NumberOut True
+Create 3.NumberOut
+Four Seater Table Cleaning.NumberIn
+Four Seater Table Cleaning.NumberOut
+Leaving Process.NumberOut
+Place Order at Till.NVATime
+Willing to wait for Two Seater?.NumberOut True
+Place Order at Till.TranTime
+Willing to wait for Two Seater?.NumberOut False
+Clone The model.NumberOut Dup
+Timebusy
+TwoSeater Table Cleaning.NumberOut
+TwoSeater Table Cleaning.NumberIn
+Dispose 7.NumberOut
+Leaving Process.NumberIn
+Use Two Seater Table.NumberOut
+Prepare Order.TranTime
+Customer Arrival.NumberOut
+Use Long Table.WaitTime
+Decide the Table.NumberOut False
+Clone The model.NumberOut Orig
+Decide the Table.NumberOut True
+Use Two Seater Table.WaitTime
+Move To Table Area.NumberIn
+Move To Table Area.NumberOut
+Is the queue Size too much??.NumberOut True
+Split the Pary Size to reflect order type.NumberOut Dup
+hour
+Is the queue Size too much??.NumberOut False
+batch the orders together.NumberOut
+Split the Pary Size to reflect order type.NumberOut Orig
+Place Order at Till.WaitTime
+TwoSeater Table Cleaning.VATime
+Place Order at Till.VATime
